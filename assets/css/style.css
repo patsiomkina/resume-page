@@ -193,7 +193,7 @@ html, body {
 }
 
 .resume-container .resume-box .basic-profile .basic-detail {
-/*.basic-detail {*/;
+/*.basic-detail {*/
   text-align: center;
   background-color: #1c7430;
   color: #FFF;
@@ -280,7 +280,7 @@ html, body {
 
 /*РАсстояние между блоками текста на Главной и ссылками на соц.сети*/
 .resume-container .resume-box .detail-profile .links {
-  padding: 50px 0px;
+  padding: 30px 0px;
 }
 
 /*Характеристики кнопки скачивания резюме*/
@@ -390,17 +390,19 @@ html, body {
   color: #7f298c;
 }
 
-/*@media screen and (max-width: 483px) {*/
+/* @media screen and (max-width: 483px) {*/
 /*  .resume-container .resume-box .detail-profile .service .serv-logo i {*/
 /*    font-size: 14px;*/
 /*    padding: 0 !important;*/
 /*  }*/
-/*}*/
+/*} */
 
-/*.resume-container .resume-box .detail-profile .service .serv-logo-right {*/
-/*  border-left: 2px solid #CCC;*/
-/*  text-align: center;*/
-/*}*/
+
+/* ВЕртикальная черта Навыков между значком и описанием */
+.resume-container .resume-box .detail-profile .service .serv-logo-right {
+ border-left: 2px solid #CCC;
+ text-align: center;
+}
 
 /*@media screen and (max-width: 483px) {*/
 /*  .resume-container .resume-box .detail-profile .service .serv-logo-right {*/
