@@ -262,7 +262,7 @@ html, body {
 
 /*ВЕрхний текст (первый блок) на Главной вкладке*/
 .resume-container .resume-box .detail-profile .detal-jumbo {
-  padding: 10px;
+  padding: 3px;
   font-size: 15px;
   background-color: #EEEEEE;
   /*border-left: 4px solid #7f298c;*/
